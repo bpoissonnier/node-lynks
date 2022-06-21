@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.13458e14.css",
+    "main.js": "/static/js/main.2d971c1e.js",
+    "static/media/Fond.png": "/static/media/Fond.6730b391fa84c7d90855.png",
+    "static/media/logolynks.png": "/static/media/logolynks.f585def05bedf4f42d36.png",
+    "static/media/DepCV.png": "/static/media/DepCV.a5cee8b2cbee68fc6ae3.png",
+    "index.html": "/index.html",
+    "main.13458e14.css.map": "/static/css/main.13458e14.css.map",
+    "main.2d971c1e.js.map": "/static/js/main.2d971c1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13458e14.css",
+    "static/js/main.2d971c1e.js"
+  ]
+}
